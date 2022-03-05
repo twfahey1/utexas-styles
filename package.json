@@ -1,0 +1,9 @@
+{
+    "name": "utexas-styles",
+    "version": "1.0.3",
+    "description": "Provides UT Themed styling",
+    "main": "forty_acres.css",
+    "style": "forty_acres.css",
+    "repository": "twfahey/utexas-styles",
+    "license": "MIT"
+  }
